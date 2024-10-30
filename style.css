@@ -1,0 +1,42 @@
+p
+
+{
+    color:rgb(40, 122, 24);
+    font-size:50pt;
+    font-family:"Playwrite GB S";
+}
+body
+{
+    color:rgb(31, 202, 148);
+    background-color:darkgreen;
+    background-image:url("html2.jpg");
+    font-family:"Playwrite GB S";
+}
+img
+{
+    width:500px;
+}
+
+#tytuł
+{
+    font-size:xx-large;
+}
+.shadows-into-light-two-regular
+ {
+    font-family: "Shadows Into Light Two", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.playwrite-gb-s
+ {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: italic;
+}
+div
+{
+max-width: 1000px;
+margin:auto
+}
